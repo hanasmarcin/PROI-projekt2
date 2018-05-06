@@ -70,7 +70,7 @@ bool testing_double::what_size (int howmany)
 
 }
 
-
+//Test metody porownania
 bool testing_double::same (bool agree)
 {
     cout << "TEST POROWNANIA, czy takie same" << endl;
@@ -101,6 +101,7 @@ bool testing_double::same (bool agree)
 
 }
 
+//Test sprawdzania, czy rozne
 bool testing_double::different (bool agree)
 {
     cout << "TEST POROWNANIA, czy rozne" << endl;
