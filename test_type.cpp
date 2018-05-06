@@ -3,7 +3,7 @@
 
 using namespace std;
 
-bool testing_type::push_pop(type data)
+bool testing_type::push_pop (type data)
 {
     Customstack<type> c;
     type result;
