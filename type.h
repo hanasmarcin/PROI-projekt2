@@ -4,6 +4,7 @@
 
 using namespace std;
 
+//Wlasny typ skladajacy sie z identyfikatora - liczby calkowitej, literowego oznaczenia grupy i sredniej typu double
 class type
 {
 private:
